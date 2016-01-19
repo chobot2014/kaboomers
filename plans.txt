@@ -1,0 +1,5 @@
+soooo as we speak there's a few different things that we will be adding
+we need to have an app that allows addding/ and removing products (form with picture/video addition)
+
+
+products has many types: cakes, novelties, small multishot, large multishots, rockets, fountains, and roman candles
