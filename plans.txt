@@ -1,5 +1,23 @@
-soooo as we speak there's a few different things that we will be adding
-we need to have an app that allows addding/ and removing products (form with picture/video addition)
+THE PLAN
+(will be updated)
 
 
-products has many types: cakes, novelties, small multishot, large multishots, rockets, fountains, and roman candles
+products many types: novelties, cakes(small multishot, large multishot, 500g) rockets, fountains, roman candles, closeouts, shells, and supplies
+
+managers have one order, one inventory, and one information
+
+
+the following needs to be shown on the products page:
+cakes, novelties, small multishot, large multishots, rockets, fountains, roman candles
+QUOTE FROM RICH: "when you click on Products, then click cakes, then click 500 gram.  Choose one of the items on that page.  Gives you info and you can click on and see a movie video of item."
+
+we need to have a control panel page that allows addding/ and removing products (form with picture/video)
+
+
+we also need a "manager page" with user authentification where each manager has one order and
+each order contains many products
+the manager page also needs to allow them to press a button and set their "order status" to ok or whatever to show that their order was shipped how they were supposed to get it.
+
+the main welcome page will contain a google map with all of the locations on it, http://www.sitepoint.com/use-google-maps-rails/ and there will be a locations page as well and there needs to be a place in the control panel place that will allow the addition of locations
+
+newsletter mailinglist
