@@ -3,7 +3,7 @@ class PagesController < ApplicationController
   	def newsletter
   	end
   end
-
+  
   def about_us
   end
 
