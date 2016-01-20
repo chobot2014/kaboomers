@@ -3509,3 +3509,177 @@ Started GET "/pages/contact_us" for ::1 at 2016-01-19 19:21:17 -0600
 Processing by PagesController#contact_us as HTML
   Rendered pages/contact_us.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 18ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:21:58 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 33ms (Views: 32.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:22:55 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact_us" for ::1 at 2016-01-19 19:23:13 -0600
+Processing by PagesController#contact_us as HTML
+  Rendered pages/contact_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:23:14 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 93.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:23:26 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-19 19:23:27 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:23:28 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:23:28 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact_us" for ::1 at 2016-01-19 19:23:28 -0600
+Processing by PagesController#contact_us as HTML
+  Rendered pages/contact_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:23:33 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-19 19:23:39 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 74ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:23:40 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:23:40 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact_us" for ::1 at 2016-01-19 19:23:41 -0600
+Processing by PagesController#contact_us as HTML
+  Rendered pages/contact_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:23:43 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:23:43 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact_us" for ::1 at 2016-01-19 19:23:44 -0600
+Processing by PagesController#contact_us as HTML
+  Rendered pages/contact_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-19 19:23:46 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 75ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:23:46 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:23:47 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:23:47 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact_us" for ::1 at 2016-01-19 19:23:48 -0600
+Processing by PagesController#contact_us as HTML
+  Rendered pages/contact_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-19 19:23:53 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:23:54 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:23:54 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 82ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact_us" for ::1 at 2016-01-19 19:23:54 -0600
+Processing by PagesController#contact_us as HTML
+  Rendered pages/contact_us.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about_us" for ::1 at 2016-01-19 19:24:11 -0600
+Processing by PagesController#about_us as HTML
+  Rendered pages/about_us.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products/index" for ::1 at 2016-01-19 19:24:11 -0600
+Processing by ProductsController#index as HTML
+  Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-19 19:24:12 -0600
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.8ms | ActiveRecord: 0.0ms)
