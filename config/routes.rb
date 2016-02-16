@@ -1,10 +1,10 @@
 Rails.application.routes.draw do
   
+  resources :products
   get 'products/index'
-
   devise_for :users
   get 'pages/home'
-
+  get 'pages/products'
   get 'pages/about_us'
 
   get 'pages/contact_us'
